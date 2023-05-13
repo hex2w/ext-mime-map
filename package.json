@@ -1,0 +1,24 @@
+{
+  "name": "ext-mime-map",
+  "version": "1.0.0",
+  "description": "This library provides a map of MIME types to file extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hex2w/ext-mime-map.git"
+  },
+  "author": "hex2w (https://webpk.eu/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hex2w/ext-mime-map/issues"
+  },
+  "homepage": "https://github.com/hex2w/ext-mime-map#readme",
+  "keywords": [
+    "file extension", "mime type", "mime", "extension", "map", "mime map", "mime type map", "file extension map",
+    "file extension to mime type", "mime type to file extension", "extension to mime", "mime to extension",
+    "convert", "ext2mime", "mime2ext", "ext-to-mime", "mime-to-ext", "to"
+  ]
+}

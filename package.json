@@ -1,6 +1,6 @@
 {
   "name": "ext-mime-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library provides a map of MIME types to file extensions.",
   "main": "index.js",
   "type": "module",

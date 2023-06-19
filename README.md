@@ -13,7 +13,7 @@ mimeExtMap(".js")  // text/javascript
 mimeExtMap("application/octet-stream")  // [ ".a", ".bin", ".bpk", ".deploy", ".dist", ".distz", ".dmg", ".dms",  ".dump", ".elc", ".iso", ".lha", ".lrf", ".lzh", ".o", ".obj", ".pkg", ".so" ]
 mimeExtMap("application/json")  // .json
 mimeExtMap("application/zip")  // .zip
-mimeExtMap("application/x-zip-compressed")  // application/octet-stream
+mimeExtMap("application/x-zip-compressed")  // ""
 
 ```
 

@@ -13,6 +13,6 @@ export default function mime2ExtMap (str) {
         return "application/octet-stream"
     } else {
         str = str.toLowerCase().split(";")[0].trim()
-        return map[str] || "application/octet-stream"
+        return map[str] || ""
     }
 }

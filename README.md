@@ -9,11 +9,11 @@ This module provides a map of MIME types to file extensions.
 
 import mimeExtMap from "ext-mime-map"
 
-mime2ExtMap(".js")  // text/javascript
-mime2ExtMap("application/octet-stream")  // [ ".a", ".bin", ".bpk", ".deploy", ".dist", ".distz", ".dmg", ".dms",  ".dump", ".elc", ".iso", ".lha", ".lrf", ".lzh", ".o", ".obj", ".pkg", ".so" ]
-mime2ExtMap("application/json")  // .json
-mime2ExtMap("application/zip")  // .zip
-mime2ExtMap("application/x-zip-compressed")  // application/octet-stream
+mimeExtMap(".js")  // text/javascript
+mimeExtMap("application/octet-stream")  // [ ".a", ".bin", ".bpk", ".deploy", ".dist", ".distz", ".dmg", ".dms",  ".dump", ".elc", ".iso", ".lha", ".lrf", ".lzh", ".o", ".obj", ".pkg", ".so" ]
+mimeExtMap("application/json")  // .json
+mimeExtMap("application/zip")  // .zip
+mimeExtMap("application/x-zip-compressed")  // application/octet-stream
 
 ```
 
